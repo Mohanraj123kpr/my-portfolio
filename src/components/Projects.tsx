@@ -33,7 +33,7 @@ export default function Projects() {
   ];
 
   return (
-    <section className="fade-in px-4 py-12 min-h-screen sm:py-16 lg:py-20">
+    <section className="fade-in px-4 py-16 sm:py-20 lg:py-24">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-2xl font-bold text-center mb-8 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent sm:text-3xl lg:text-4xl sm:mb-12">
           Featured Projects

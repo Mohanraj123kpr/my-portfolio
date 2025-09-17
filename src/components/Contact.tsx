@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <section className="fade-in px-4 py-12 min-h-screen sm:py-16 lg:py-20">
+    <section className="fade-in px-4 py-16 sm:py-20 lg:py-24">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-2xl font-bold text-center mb-8 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent sm:text-3xl lg:text-4xl sm:mb-12">
           Get In Touch
@@ -11,19 +11,19 @@ export default function Contact() {
               <h3 className="text-lg text-blue-400 mb-2 flex items-center gap-2 sm:text-xl sm:mb-3">
                 📧 Email
               </h3>
-              <p className="text-sm text-white/80 sm:text-base">john.doe@example.com</p>
+              <p className="text-sm text-white/80 sm:text-base">mohanraj2002kpr@gmail.com</p>
             </div>
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-4 sm:p-6">
               <h3 className="text-lg text-blue-400 mb-2 flex items-center gap-2 sm:text-xl sm:mb-3">
                 💼 LinkedIn
               </h3>
-              <p className="text-sm text-white/80 sm:text-base">linkedin.com/in/johndoe</p>
+              <p className="text-sm text-white/80 sm:text-base">https://www.linkedin.com/in/mohanraj-subramanian-047614224/</p>
             </div>
             <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-4 sm:p-6">
               <h3 className="text-lg text-blue-400 mb-2 flex items-center gap-2 sm:text-xl sm:mb-3">
                 🐙 GitHub
               </h3>
-              <p className="text-sm text-white/80 sm:text-base">github.com/johndoe</p>
+              <p className="text-sm text-white/80 sm:text-base">https://github.com/Mohanraj123kpr</p>
             </div>
           </div>
           <form className="space-y-4 sm:space-y-6">

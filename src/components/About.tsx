@@ -1,9 +1,9 @@
 export default function About() {
   return (
-    <section className="fade-in px-4 py-12 text-center min-h-screen flex items-center sm:py-16 lg:py-20">
+    <section className="fade-in px-4 py-16 text-center sm:py-20 lg:py-24">
       <div className="w-full max-w-4xl mx-auto">
         <h1 className="text-3xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent sm:text-4xl md:text-5xl lg:text-6xl sm:mb-6">
-          Hi, I'm John Doe
+          Hi, I'm Mohanraj
         </h1>
         <p className="text-lg text-blue-400 mb-6 sm:text-xl lg:text-2xl sm:mb-8">
           Frontend Developer
